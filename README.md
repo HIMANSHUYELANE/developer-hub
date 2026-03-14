@@ -4,7 +4,7 @@
 ### Project Note
 It is a web-based platform designed to help developers connect and collaborateon software projects. Many developers have innovative ideas but often struggle tofind teammates with the right skills. This platform allows users to create developer profiles, post project ideas, search for developers based on skills, and send    requests to join projects. By providing a centralized collaboration space, thesystem helps developers build teams, share knowledge, and successfully   develop software projects together
 
-<img src="src\assets\Screenshot 2026-03-14 132104.png">
+<img src="client\src\assets\Screenshot 2026-03-14 132104.png">
 
 <img src="src\assets\Screenshot 2026-03-14 132324.png">
 
