@@ -6,11 +6,11 @@ It is a web-based platform designed to help developers connect and collaborateon
 
 <img src="client\src\assets\Screenshot 2026-03-14 132104.png">
 
-<img src="src\assets\Screenshot 2026-03-14 132324.png">
+<img src="client\src\assets\Screenshot 2026-03-14 132324.png">
 
-<img src="src\assets\Screenshot 2026-03-14 132357.png">
+<img src="client\src\assets\Screenshot 2026-03-14 132357.png">
 
-<img src="src\assets\Screenshot 2026-03-14 132429.png">
+<img src="client\src\assets\Screenshot 2026-03-14 132429.png">
 
 
 ## System Analysis
